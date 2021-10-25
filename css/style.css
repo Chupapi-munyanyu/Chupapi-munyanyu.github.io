@@ -207,7 +207,7 @@ section{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background:url(../image/back.png);
+    background:url(../image/back.png) no-repeat;
     background-size: cover;
     background-position: center;
 }
