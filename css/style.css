@@ -207,7 +207,7 @@ section{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background:url(../images/back.png);
+    background:url(https://raw.githubusercontent.com/Chupapi-munyanyu/Chupapi-munyanyu.github.io/main/images/back.png);
     background-size: cover;
     background-position: center;
 }
