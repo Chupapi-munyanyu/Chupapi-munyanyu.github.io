@@ -16,12 +16,30 @@
     transition: .2s linear;
 }
 
+a.one:link {
+    color: #fff;
+  }
+  a.one:visited {
+    color: #fff;
+  }
+  a.one:hover {
+    color: #fff;
+  }
+  a.two:link {
+    color: #fff;
+  }
+  a.two:visited {
+    color: #fff;
+  }
+  a.two:hover {
+    font-size: 150%;
+  }
+  a {
+    color: #fff;
+  }
+
 .row{
     line-height: 190px;
-}
-
-a:link {
-  color: white;
 }
 
 html{
