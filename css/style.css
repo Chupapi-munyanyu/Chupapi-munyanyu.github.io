@@ -16,6 +16,10 @@
     transition: .2s linear;
 }
 
+.row{
+    line-height: 190px;
+}
+
 html{
     font-size: 62.5%;
     overflow-x: hidden;
