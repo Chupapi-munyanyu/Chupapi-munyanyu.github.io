@@ -20,6 +20,10 @@
     line-height: 190px;
 }
 
+a:link {
+  color: white;
+}
+
 html{
     font-size: 62.5%;
     overflow-x: hidden;
